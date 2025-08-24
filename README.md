@@ -19,6 +19,7 @@ The dashboard will serve as a decision-making tool for coffee shop's management 
 The primary dataset used for this analysis is from Kaggle - <a href="https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data">Dataset</a> containing three tables: Orders,Products and Customer Information.
 ## Tools
 MS Excel 
+[Download here] https://github.com/LakshimiPrabha/Coffee-sales-Excel-Dashboard-Project/blob/main/coffeeOrdersData.xlsx
 - Data Cleaning
 - Data Analysis
 - Data Visualization
@@ -75,6 +76,7 @@ The dashboard aims to answer the following key questions raised by stakeholders 
 ## Dashboard
 
 https://github.com/LakshimiPrabha/Coffee-sales-Excel-Dashboard-Project/blob/main/Coffee%20sales%20dashboard.png
+
 ## Business Insights
 **Sales Performance**
 - The **highest total sales** were recorded in **2021**, reaching **$13.7k**, driven primarily by **Arabica coffee**.
