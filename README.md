@@ -74,7 +74,7 @@ The dashboard aims to answer the following key questions raised by stakeholders 
 
 ## Dashboard
 
-
+https://github.com/LakshimiPrabha/Coffee-sales-Excel-Dashboard-Project/blob/main/Coffee%20sales%20dashboard.png
 ## Business Insights
 **Sales Performance**
 - The **highest total sales** were recorded in **2021**, reaching **$13.7k**, driven primarily by **Arabica coffee**.
